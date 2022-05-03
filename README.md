@@ -42,7 +42,7 @@ NULL values in the resultsets are not acceptable and must be substituted to 0.
 
 All output resultsets are ordered by customer names alphabetically.
 
-Question #4
+## Question #4
 Write a SQL query which reports the highest loss of money from orders not being converted into invoices, by customer category.
 
 The name and id of the customer who generated this highest loss must also be identified. The resultset is ordered by highest loss.
